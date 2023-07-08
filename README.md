@@ -1,1 +1,2 @@
-# CodingPractice | https://www.codewars.com/users/AgInsideOut
+# CodingPractice
+[Codewars | AgInsideOut](https://www.codewars.com/users/AgInsideOut)
